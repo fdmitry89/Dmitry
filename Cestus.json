@@ -1,0 +1,27 @@
+{
+	"name": "Cestus",
+	"type": "M",
+	"weapon": true,
+	"weaponCategory": "simple",
+	"rarity": "none",
+	"value": 200,
+	"weight": 1,
+	"dmg1": "1d4",
+	"dmgType": "B",
+	"property": [
+		"FFIGH",
+		"L",
+		"FFIGMW",
+		"S"
+	],
+	"entries": [
+		{
+			"type": "entries",
+			"name": "Special",
+			"entries": [
+				"Donning or doffing this glove-like weapon requires an action and you may hold another weapon in the same hand as the cestus. Unarmed strikes deal 1d4 bludgeoning damage whilst the cestus worn."
+			]
+		}
+	],
+	"source": "FFItemsGalore"
+}
